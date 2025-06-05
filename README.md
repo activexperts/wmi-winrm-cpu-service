@@ -1,5 +1,5 @@
-# Cpu-wmi-winrm
-ActiveXperts PowerShell script to check if a Service is running on a remote Windows machine or not.
+# Powershell script to monitor a Service on a (remote) Windows Server
+PowerShell script to check if a Service is running on a remote Windows machine or not.
 Script is based on WMI/WinRM.
 
 ## Overview
